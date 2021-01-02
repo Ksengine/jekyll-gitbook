@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Make Jelly site have a GitBook look!
